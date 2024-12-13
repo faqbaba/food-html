@@ -1,0 +1,93 @@
+body{
+    background-color: hwb(40 76% 8%);
+}
+.main{
+    height: 1400px;
+    width: 700px;
+    background-color: white;
+    margin: auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    border-radius: 15px;
+}
+img{
+    width: 650px;
+    height: 300px;
+margin-left: 25px;
+margin-right: 25px;
+margin-top: 25px;
+border-radius: 10px;
+}
+table{
+    width: 100%;
+}
+h1{
+    margin-left: 25px;
+}
+.p1{
+    margin-left: 25px;
+    color: rgb(203, 181, 181);
+}
+.pr{
+    height: 130px;
+    width: 650px;
+    margin-left: 25px;
+    background-color: rgb(156, 136, 136);
+    border-radius: 10px;
+}
+.pr h3{
+    color: rgb(94, 56, 56);
+    margin-left: 20px;
+}
+.in{
+    color: rgb(158, 36, 36);
+    margin-left: 20px;
+}
+.ins{
+    color: rgb(158, 36, 36);
+    margin-left: 20px;
+}
+.nu{
+    color: rgb(158, 36, 36);
+    margin-left: 20px;
+}
+b{
+    color:rgb(96, 39, 96) ;
+}
+.ol{
+    color: rgb(96, 39, 96);
+}
+
+ul{
+    color: rgb(96, 39, 96);
+}
+table{
+    margin-left: 20px;
+    width: 450px;
+    margin-top: ;
+
+}
+.ptable{
+    color: rgb(96, 39, 96);
+    margin-left: 20px;
+}
+th{
+    color: rgb(158, 36, 36);
+    
+    
+}
+td{
+    color: rgb(96, 39, 96);
+}
+th,td{
+    border-bottom: 1px solid red;
+    padding: 0.6rem;
+    text-align: left;
+    
+}
+ol li::marker{
+    color: rgb(158, 36, 36); 
+    font-weight: 600;
+}
+    
+
